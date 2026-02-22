@@ -6,7 +6,7 @@
 
 This repository does NOT contain and will NEVER contain any leaked, proprietary, or copyrighted game client files.
 
-The original Hytale client is the intellectual property of its respective owners.
+The original Hytale client is the intellectual property of its respective Hypixel Studios Canada.
 **This project does not distribute, re-host, or provide access to any leaked binaries or decompiled resources**.
 
 Purpose of This Project
@@ -25,13 +25,13 @@ This repository exists for:
 
 Important
 
-- You must legally obtain any required binaries on your own.
-
 - No client files are included here.
 
 - This project does not encourage violating any game's Terms of Service.
 
 - Any use of proprietary software is done at your own responsibility.
+
+
 
 **If you are a rights holder and believe something here violates your rights, please open an issue for prompt review and removal.**
 
