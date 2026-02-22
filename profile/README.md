@@ -1,19 +1,61 @@
-# Hytale
+# Hytale Client
 
-Движок: .NET Framework 4.7
+---
 
-Запуск клиента
+## ⚠️ Legal Notice & Disclaimer
 
-Аргементы:
+This repository does NOT contain and will NEVER contain any leaked, proprietary, or copyrighted game client files.
 
-```
---assets-dir="E:\release\package\game\latest" --data-dir="E:\release\package\game\latest\Client" --user-dir="E:\release\package\game\latest\UserData" --java-exec="C:\Users\Bezzu\AppData\Roaming\Hytale\install\release\package\jre\latest\bin\java.exe" --server-jar="E:\release\package\game\latest\Server\HytaleServer.jar"
-```
+The original Hytale client is the intellectual property of its respective owners.
+**This project does not distribute, re-host, or provide access to any leaked binaries or decompiled resources**.
 
-Рабочий каталог:
+Purpose of This Project
 
-```
-E:\release\package\game\latest\Client
-```
-в случае если исполняемый файл по пути: `E:\release\package\game\latest\Client\HytaleClient.exe`
+This repository exists for:
+
+- Educational and research purposes
+
+- Reverse-engineering practice
+
+- Resource reconstruction and compatibility experimentation
+
+- Technical curiosity and preservation interest
+
+- The goal is not to enable cheating, multiplayer abuse, redistribution, or commercial use.
+
+Important
+
+- You must legally obtain any required binaries on your own.
+
+- No client files are included here.
+
+- This project does not encourage violating any game's Terms of Service.
+
+- Any use of proprietary software is done at your own responsibility.
+
+**If you are a rights holder and believe something here violates your rights, please open an issue for prompt review and removal.**
+
+---
+
+This project is an independent research effort focused on reconstructing and restoring the runtime environment required for an early C# client build.
+
+The leaked client binaries can be decompiled with tools like dnSpy, but the executable alone is not enough to run the game. A large portion of the runtime environment depends on external assets, configuration files, shaders, UI definitions, audio mappings, and service endpoints.
+
+This repository attempts to reconstruct those missing pieces.
+
+## The client's work requires:
+
+- Find the necessary dll libraries
+  
+- Recreated .ui markup files
+  
+- Shader reconstruction (VS/FS programs)
+  
+- Audio event mappings (Wwise compatibility)
+  
+- Asset atlas cache rebuilding
+  
+- dapt server.jar
+
+Our main goal is to use an old client. Pure enthusiasm!
 
