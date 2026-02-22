@@ -57,5 +57,7 @@ This repository attempts to reconstruct those missing pieces.
   
 - dapt server.jar
 
-Our main goal is to use an old client. Pure enthusiasm!
+Our main goal is to use the old client. Pure enthusiasm! There is nothing but enthusiasm. 
+
+[Instruction manual](https://github.com/Hytale-Client-C/Guide)
 
