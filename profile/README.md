@@ -55,7 +55,7 @@ This repository attempts to reconstruct those missing pieces.
   
 - Asset atlas cache rebuilding
   
-- dapt server.jar
+- modified server.jar
 
 Our main goal is to use the old client. Pure enthusiasm! There is nothing but enthusiasm. 
 
